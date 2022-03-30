@@ -1,3 +1,9 @@
+/**
+*
+* TreeSet을 사용하여 풀기
+*
+*/
+
 public class Solution {
     public static void main(String[] args) {
         int [] array = {2,1,3,4,1};
